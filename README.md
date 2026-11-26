@@ -54,7 +54,7 @@ to rapidly audit server health, resource utilization, top processes, and OS patc
 ```text
 ╔════════════════════════════════════════════╗
 ║     Linux Server Health Check Report       ║
-║          Generated: 2026-09-01 08:00       ║
+║       Generated: 2026-09-01 08:00          ║
 ╚════════════════════════════════════════════╝
 
 --- SYSTEM DETAILS ---
