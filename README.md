@@ -1,8 +1,39 @@
 # 🖥️ Linux Server Health Check & System Monitor
 
+![Bash](https://img.shields.io/badge/Bash-Scripting-green?logo=gnu-bash)
+![RHEL](https://img.shields.io/badge/RHEL-7%2F8%2F9%2F10-red)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04%2F22.04%2F24.04-orange)
+![CentOS](https://img.shields.io/badge/CentOS-7%2F8%2F9%2F10-red)
+![SUSE](https://img.shields.io/badge/SUSE-12%2F15%2F16-red)
+
 A lightweight, dependency-free Bash utility designed for **L2/L3 Linux Administrators and Site Reliability Engineers** 
 to rapidly audit server health, resource utilization, top processes, and OS patch compliance across enterprise Linux distributions.
 
+---
+## 📌 Business Problem
+
+In enterprise environments, Linux administrators manage multiple servers supporting business-critical applications.
+Manual health checks require administrators to log in to individual servers and run several commands to collect system information.
+
+This approach leads to:
+
+- Increased troubleshooting effort
+- Delayed incident resolution
+- Inconsistent health assessments
+- Risk of missing performance bottlenecks
+- Reduced operational efficiency
+---
+## 🎯 Objectives
+
+The project aims to:
+
+- Automate Linux server health checks
+- Standardise monitoring procedures
+- Reduce manual troubleshooting effort
+- Improve visibility into system performance
+- Identify capacity issues proactively
+- Generate consolidated health reports
+- Support production operations teams
 ---
 
 ## 🚀 Features
@@ -23,7 +54,6 @@ to rapidly audit server health, resource utilization, top processes, and OS patc
 * Ubuntu & Debian
 
 ---
-
 ## 📋 Quick Start & Usage
 
 1. **Clone the repository:**
