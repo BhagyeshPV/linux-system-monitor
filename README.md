@@ -60,6 +60,7 @@ The project aims to:
    ```bash
    # git clone https://github.com
    # cd linux-system-monitor
+   # cd script
    ```
 
 2. **Make the script executable:**
