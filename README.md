@@ -106,12 +106,10 @@ CPU Usage:    12%
 
 ---
 
-## ⚠️ Professional Disclaimer
-This repository contains a self-developed Linux monitoring solution created as part of a personal technical portfolio.
+## ⚠️ <sub>Professional Disclaimer</sub>
+<sub><i>This repository contains a self-developed Linux monitoring solution created as part of a personal technical portfolio.</i></sub>
 
-While the design is inspired by real-world Linux administration and infrastructure operations practices, the implementation, code, documentation, and examples have been independently created and do not contain any proprietary information, confidential business data, customer information, or intellectual property from any current or former employer.
-
-This project is intended exclusively to showcase technical skills in Linux Administration, Shell Scripting, System Monitoring, Troubleshooting, and Infrastructure Automation.
+<sub><i>While the design is inspired by real-world Linux administration and infrastructure operations practices, the implementation, code, documentation, and examples have been independently created and do not contain any proprietary information, confidential business data, customer information, or intellectual property from any current or former employer.</i></sub>
 
 ---
 
